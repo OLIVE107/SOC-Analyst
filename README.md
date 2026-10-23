@@ -1,19 +1,20 @@
-# Aspiring-SOC-Analyst-TryHackMe-Top-3-Gambia-Linux-Zeek-Sukuta-Gambia# Olive
 
-**Currently:** Top 3 Monthly on TryHackMe - Gambia | Learning SOC Level 1 Path
-**Focus:** Blue Team, Linux Fundamentals, Zeek Log Analysis
+# Olive — Aspiring SOC Analyst | Sukuta, Gambia
 
-### What I'm learning now
-- Linux CLI: pwd, ls, cat, grep, file operators
-- Zeek: conn.log, dns.log, http.log for threat hunting
-- SOC fundamentals — alert triage & log investigation
-- Hands-on via Termux on mobile
+**Top 3 Monthly on TryHackMe — Gambia | Linux & Zeek**
+
+Currently learning SOC Level 1 path via mobile (Termux).
+
+### What I'm learning
+- Linux CLI: pwd, ls, cat, grep
+- Zeek logs: conn.log, dns.log, http.log
+- SOC fundamentals: alert triage & log investigation
 
 ### Tools
 Linux | Termux | TryHackMe | Wireshark | Zeek
 
 ### TryHackMe
-Profile: tryhackme.com/p/YOURNAMEHERE
-Rank: #3 Gambia (Monthly) — October 2026
+Profile: https://tryhackme.com/p/YOURUSERNAME
+Rank: #3 Gambia — October 2026
 
-Open to SOC Analyst internships & junior roles.
+Open to junior SOC / IT Support roles.
