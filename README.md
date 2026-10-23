@@ -14,7 +14,7 @@ Currently learning SOC Level 1 path via mobile (Termux).
 Linux | Termux | TryHackMe | Wireshark | Zeek
 
 ### TryHackMe
-Profile: https://tryhackme.com/p/YOURUSERNAME
+Profile: https://tryhackme.com/p/olivejefia034
 Rank: #3 Gambia — October 2026
 
 Open to junior SOC / IT Support roles.
